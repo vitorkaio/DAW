@@ -1,0 +1,38 @@
+.headerr{
+    
+    width: 100px;
+	height: 100px; // A altura tem de ser fixa position : absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding-top: 2%;
+	margin: auto;
+	font-size: 30px;
+
+}
+
+.msg{
+	
+	width: 90px;
+	height: 100px; // A altura tem de ser fixa position : absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding-top: 4%;
+	margin: auto;
+	font-size: 30px;
+	
+}
+.tabela{
+	
+	width: 500px;
+	height: 100px; // A altura tem de ser fixa position : absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding-top: 4%;
+	margin: auto;
+}
